@@ -1,38 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ramazan</h1>
-<h3 align="center">A passionate Java Developer from Kyrgyzstan 🇰🇬</h3>
+<h1 align="center">Hi there, I'm Ramzan 👋</h1>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
-
-- 🔭 I’m currently working on **Java backend projects**
-- 🌱 I’m currently learning **Spring Boot & Microservices**
-- 👨‍💻 All of my projects are available at [github.com/Leemau](https://github.com/Leemau)
-- 💬 Ask me about **Java, Spring, SQL, Git**
-- 📫 How to reach me: **youremail@example.com**
-- ⚡ Fun fact: I love clean code and strong coffee ☕
-
----
-
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leemau&show_icons=true&theme=tokyonight" alt="Leemau's GitHub stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1C9FE3&center=true&vCenter=true&width=600&lines=Java+Developer+with+4%2B+years+experience;Spring+Boot+%7C+REST+APIs+%7C+Docker+%7C+PostgreSQL;Clean+Code+%7C+DDD+%7C+Scalable+Architecture" />
 </p>
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/r-mashanlo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:mashanloram.92@gmail.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="30" /></a>
-  <a href="https://t.me/mega_rmashanlo"><img align="center" src="https://img.icons8.com/?size=100&id=oWiuH0jFiU0R&format=png&color=000000" alt="telegram" height="30" width="30" /></a>
+### 👨‍💻 About Me
+
+- 💼 Java Developer with **4+ years** of experience  
+- 🚀 Building scalable backend systems with **Spring Boot**  
+- 🛠️ Skilled in **REST APIs**, **JPA/Hibernate**, **Docker**, **Git**
+- 🧠 Always learning — focused on **clean code**, **TDD**, and **best practices**
+- 📍 Based in Kyrgyzstan 🇰🇬
+
+---
+
+### 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7-brightgreen?style=flat-square&logo=spring-boot)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14-blue?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven)
+![JUnit](https://img.shields.io/badge/JUnit-5.8-red?style=flat-square&logo=junit5)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRamzan&show_icons=true&theme=radical&hide_title=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRamzan&layout=compact&theme=radical" height="180px"/>
 </p>
+
+---
+
+### 📫 Contact Me
+
+- 💼 LinkedIn: [linkedin.com/in/r-mashanlo](https://linkedin.com/in/r-mashanlo)
+- 📬 Email: **mashanloram.92@gmail.com**
+- 
+
+---
