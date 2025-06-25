@@ -1,14 +1,46 @@
-# Hi 👋  I'm Ramazan
+<h1 align="center">Hi 👋, I'm Ramazan</h1>
+<h3 align="center">A passionate Java Developer from Kyrgyzstan 🇰🇬</h3>
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Java backend projects**
+- 🌱 I’m currently learning **Spring Boot & Microservices**
+- 👨‍💻 All of my projects are available at [github.com/Leemau](https://github.com/Leemau)
+- 💬 Ask me about **Java, Spring, SQL, Git**
+- 📫 How to reach me: **youremail@example.com**
+- ⚡ Fun fact: I love clean code and strong coffee ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Leemau&show_icons=true&theme=tokyonight" alt="Leemau's GitHub stats" />
+</p>
+
+---
+
+### 📝 Latest Blog Posts / Notes
+<!-- BLOG-POST-LIST:START -->
+- [Top 5 Java Tips for Beginners](#)
+- [Understanding Spring Boot Starter Projects](#)
+- [How to Structure a Java Project Like a Pro](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:youremail@example.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="30" /></a>
+</p>
