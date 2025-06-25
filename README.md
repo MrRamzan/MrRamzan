@@ -30,17 +30,8 @@
 
 ---
 
-### 📝 Latest Blog Posts / Notes
-<!-- BLOG-POST-LIST:START -->
-- [Top 5 Java Tips for Beginners](#)
-- [Understanding Spring Boot Starter Projects](#)
-- [How to Structure a Java Project Like a Pro](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:youremail@example.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/r-mashanlo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="mailto:mashanloram.92@gmail.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/email.png" alt="email" height="30" width="30" /></a>
 </p>
