@@ -48,11 +48,11 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRamzan&show_icons=true&theme=radical&hide_title=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrRamzan&layout=compact&theme=radical" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrRamzan&theme=tokyonight" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrRamzan&theme=tokyonight" height="200"/>
 </p>
 
 ---
