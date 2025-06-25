@@ -20,20 +20,31 @@
 
 ### 🧰 Tech Stack
 
-![Java](https://img.shields.io/badge/Java_17+-007396?style=flat-square&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven)
-![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5)
-![Keycloak](https://img.shields.io/badge/Keycloak-0074BE?style=flat-square&logo=keycloak)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_17+-007396?style=flat-square&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=spring-security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebFlux-00BFFF?style=flat-square&logo=reactivex&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keycloak-0074BE?style=flat-square&logo=keycloak&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white"/>
+  <br/>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elasticstack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-4A90E2?style=flat-square&logo=oauth&logoColor=white"/>
+</p>
 
 ---
 
