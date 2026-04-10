@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🧠 **Senior Java Developer**
-- 💼 Over **4 years** of experience in Java-based backend systems
+- 💼 Over **5 years** of experience in Java-based backend systems
 - 🧩 Building scalable **microservices** with Spring Boot, Spring Cloud & Kafka
 - ⚡ Strong in high-load system design, integration, and optimization
 - 🛠️ DevOps-friendly: Docker, Redis, Linux, Prometheus, ELK, Grafana
