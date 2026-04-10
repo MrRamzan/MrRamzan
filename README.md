@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ramazan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1C9FE3&center=true&vCenter=true&width=700&lines=Senior+Java+Developer+(4%2B+years);Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+WebFlux;Prometheus+%7C+ELK+Stack+%7C+Keycloak+%7C+Docker" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=1C9FE3&center=true&vCenter=true&width=700&lines=Senior+Java+Developer+(5%2B+years);Spring+Boot+%7C+Microservices+%7C+Kafka+%7C+WebFlux;Prometheus+%7C+ELK+Stack+%7C+Keycloak+%7C+Docker" />
 </p>
 
 ---
